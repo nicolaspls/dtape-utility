@@ -7,7 +7,7 @@ information below :
 # sorter :
 sort.py : can be used to sort dtapes in order for easy modding.
 # lister
-lister.py : list all the moves or pictos from a dtape ( does not support multiple files ).
+lister.py : list all the moves or pictos from a dtape into moves.txt or pictos.txt ( does not support multiple dtape files ).
 # moves collector
 moves.py : collect all the moves in wiiu folder from moves.txt that match the same names ( a path to world folder is required )
 # pictos collector
