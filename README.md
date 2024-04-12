@@ -2,7 +2,8 @@
 a bunch of tools for dtapes
 # how to use?
 simply run any python file or python3 file.py
-# files
+# files:
+information below :
 # sorter :
 sort.py : can be used to sort dtapes in order for easy modding.
 # lister
