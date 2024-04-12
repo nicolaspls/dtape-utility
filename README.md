@@ -11,5 +11,5 @@ lister.py : list all the moves or pictos from a dtape ( does not support multipl
 # moves collector
 moves.py : collect all the moves in wiiu folder from moves.txt that match the same names ( a path to world folder is required )
 # pictos collector
-pictos.py : collect all the pictos in pictos folder from pictos.txt that match the same names ( a path to cache folder is required )
+pictos.py : collect all the pictos in pictos folder from pictos.txt that match the same names in it ( a path to cache folder is required )
 
