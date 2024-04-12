@@ -6,7 +6,7 @@ with open('moves.txt', 'r') as file:
     moves = file.read().splitlines()
 
 # Prompt the user to input the folder path
-input_folder = input("Enter the input folder path: ")
+input_folder = input("Enter the path to your cache folder: ")
 print(f"Input folder path: {input_folder}")
 
 # Construct the path to the output folder
