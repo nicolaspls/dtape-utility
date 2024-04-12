@@ -1,3 +1,5 @@
+# discord
+[![](https://dcbadge.vercel.app/api/server/msKfjrqfCm)](https://discord.gg/wQuMNtB5)
 # dtape-utility
 a bunch of tools for dtapes
 # how to use?
